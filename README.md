@@ -14,10 +14,7 @@
 <!-- Conect section -->
 
 <h2>Let's connect!</h2>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="vertical" data-vanity="bernardo-costaferreira" data-version="v1">
-   <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/bernardo-costaferreira?trk=profile-badge">Bernardo Costa Ferreira</a>
-</div>
+
               
 
 <!-- Stats section -->
