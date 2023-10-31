@@ -14,7 +14,9 @@
 <!-- Conect section -->
 
 <h2>Let's connect!</h2>
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-costaferreira/)
+<a href="https://www.linkedin.com/in/bernardo-costaferreira/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
+</a>
 <!-- <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
               
