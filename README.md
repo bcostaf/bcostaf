@@ -1,4 +1,4 @@
-### Hi there, I'm Bernardo! 👋
+<h1 align=center> Hi there, I'm Bernardo! 👋 </h1>
 
 <img src = "https://github.com/bcostaf/bcostaf/assets/110432839/b4300580-be9f-4eaf-9007-ad8b1a6619c6" width=200px></img>
 
