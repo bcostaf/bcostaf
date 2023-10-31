@@ -14,8 +14,8 @@
 <!-- Conect section -->
 
 <h2>Let's connect!</h3>
-    <p>
-        <a href="https://www.linkedin.com/in/bernardo-costaferreira/"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/bernardo-costaferreira" alt="LinkedIn Badge"></a> 
+    <p>    
+        <a href="https://www.linkedin.com/in/bernardo-costaferreira/"><img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn Badge"></a> 
    </p>
 
 <!-- Stats section -->
