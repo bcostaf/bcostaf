@@ -13,14 +13,11 @@
 
 <!-- Conect section -->
 
-<h2>Let's connect!</h2>
+<h2> 🤝Let's connect!</h2>
 <a href="https://www.linkedin.com/in/bernardo-costaferreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
-</a>
-<!-- <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
-              
+</a>              
 
 <!-- Stats section -->
-
+<h2> 📊 Stats</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
