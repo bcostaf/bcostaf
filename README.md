@@ -2,9 +2,9 @@
 
 <img src = "https://github.com/bcostaf/bcostaf/assets/110432839/b4300580-be9f-4eaf-9007-ad8b1a6619c6" width=400px align=right></img>
 
-✨ My passion is understanding and helping businesses thrive through analysis and application development! Be my guest to take a look at my projects so far, and I hope one day we can collaborate with each other!
-
 💻 I'm a data analyst and front-end developer with a background in business intelligence consulting and management.
+
+✨ My passion is understanding and helping businesses thrive through analysis and application development! Be my guest to take a look at my projects so far, and I hope one day we can collaborate with each other!
 
 💰 PS: If you are or know any part-time employees, feel free to use my latest salary calculator that I use to predict and control my income: https://salary-calculator.bcostafgeorgian.repl.co/
 
