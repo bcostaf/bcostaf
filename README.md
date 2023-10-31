@@ -1,5 +1,7 @@
 ### Hi there, I'm Bernardo! 👋
 
+https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
+
 ✨ My passion is understanding and helping businesses thrive through analysis and application development! Be my guest to take a look at my projects so far, and I hope one day we can collaborate with each other!
 
 💻 I'm a data analyst and front-end developer with a background in business intelligence consulting and management.
