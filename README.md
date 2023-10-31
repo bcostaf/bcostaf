@@ -1,6 +1,6 @@
 ### Hi there, I'm Bernardo! 👋
 
-<img src="https://github.com/bcostaf/bcostaf/assets/110432839/b4300580-be9f-4eaf-9007-ad8b1a6619c6" width=30px)</img>
+<img src = "https://github.com/bcostaf/bcostaf/assets/110432839/b4300580-be9f-4eaf-9007-ad8b1a6619c6" width=30px></img>
 <!--![code-gif](https://github.com/bcostaf/bcostaf/assets/110432839/b4300580-be9f-4eaf-9007-ad8b1a6619c6)
 
 ✨ My passion is understanding and helping businesses thrive through analysis and application development! Be my guest to take a look at my projects so far, and I hope one day we can collaborate with each other!
