@@ -1,6 +1,6 @@
 <h1 align=center> Hi there, I'm Bernardo! 👋 </h1>
 
-<img src = "https://github.com/bcostaf/bcostaf/assets/110432839/b4300580-be9f-4eaf-9007-ad8b1a6619c6" width=400px align=center></img>
+<img src = "https://github.com/bcostaf/bcostaf/assets/110432839/b4300580-be9f-4eaf-9007-ad8b1a6619c6" width=400px align=right></img>
 
 ✨ My passion is understanding and helping businesses thrive through analysis and application development! Be my guest to take a look at my projects so far, and I hope one day we can collaborate with each other!
 
@@ -15,7 +15,7 @@
 
 <!-- Conect section -->
 
-<p align=right> 🤝Let's connect!<p>
+<h2> 🤝Let's connect!<h2>
 <a href="https://www.linkedin.com/in/bernardo-costaferreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
 </a>              
