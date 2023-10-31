@@ -1,5 +1,7 @@
 ### Hi there, I'm Bernardo! 👋
 
+![code-gif](https://github.com/bcostaf/bcostaf/assets/110432839/b4300580-be9f-4eaf-9007-ad8b1a6619c6)
+
 <img src = "https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
 " width = 30px>
 
